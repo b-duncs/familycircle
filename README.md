@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/b-duncs/holbertonschool-capstone">
-    <img style='border: 8px solid #FFFFFF' src="/home/benslaptop/familycircle/images/Logo1.jpg" alt="Logo">
+    <img style='border: 8px solid #FFFFFF' src="https://github.com/b-duncs/holbertonschool-capstone/blob/readme/images/Logo1.jpg" alt="Logo">
   </a>
 </div>
 <!-- TABLE OF CONTENTS -->
@@ -41,13 +41,13 @@ Family Circle is a simple and accessible web app designed to make out-going call
 By clicking on a face / name of someone they know, a video call will begin, and the recipient will be notified to join. There is also voice command functionality to start a call for those with mobility restrictions.
 
 <div align="center">
-    <img style='border: 8px solid #FFFFFF' src="/home/benslaptop/familycircle/images/home_screen.jpg" alt="Logo">
+    <img style='border: 8px solid #FFFFFF' src="https://github.com/b-duncs/holbertonschool-capstone/blob/readme/images/home_screen.jpg" alt="Logo">
 </div>
 
 The above image shows a sample of the home screen. The user can choose a call recipient from here.
 
 <div align="center">
-    <img style='border: 8px solid #FFFFFF' src="/home/benslaptop/familycircle/images/vidoe_interface.jpg" alt="Logo">
+    <img style='border: 8px solid #FFFFFF' src="https://github.com/b-duncs/holbertonschool-capstone/blob/readme/images/vidoe_interface.jpg" alt="Logo">
 </div>
 
 The above image shows the video call interface while a call is in progress.
@@ -58,7 +58,7 @@ The above image shows the video call interface while a call is in progress.
 <div align=center>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindsCSS" alt="TailwindsCSS" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindsCSS" alt="TailwindsCSS" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
