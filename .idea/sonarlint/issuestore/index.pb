@@ -15,8 +15,6 @@ w
 G.idea/sonarlint/issuestore/0/3/0398ccd0f49298b10a3d76a47800d2ebecd49859,2/b/2b179fbe8d00d6818e998f6c3b532342e7e62d80
 Å
 Q.idea/sonarlint/securityhotspotstore/0/3/0398ccd0f49298b10a3d76a47800d2ebecd49859,6/e/6eb79a6de022d34531c7294103c6ad90c6fcf123
-O
-family-circle/package-lock.json,b/6/b6030dd31952dc658005ebd3add9a786bdf6bf80
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
@@ -28,3 +26,9 @@ P
  family-circle/tsconfig.node.json,1/f/1f0867bb74cf261289f02a10e0c37ff9bd1da28b
 K
 family-circle/tsconfig.json,a/2/a23df5162ad718189a6d711308596a4f8621b21d
+O
+family-circle/package-lock.json,b/6/b6030dd31952dc658005ebd3add9a786bdf6bf80
+H
+family-circle/index.html,a/5/a5de19d073c62c182e438a64bbac2fd6f2b5cf5f
+G
+family-circle/README.md,a/4/a49ae4dcf8bbed612d864be6119bf35c3bc58efd
