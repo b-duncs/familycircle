@@ -2,18 +2,18 @@ import { memo } from 'react';
 import type { FC } from 'react';
 
 import resets from '../_resets.module.css';
-import { EndCallButton_Property1Default } from './EndCallButton_Property1Default/EndCallButton_Property1Default.js';
-import classes from './ScreenVideoChat_Property1Defau.module.css';
-import { Vector_Property1Default2 } from './Vector_Property1Default2/Vector_Property1Default2.js';
-import { Vector_Property1Default3 } from './Vector_Property1Default3/Vector_Property1Default3.js';
-import { Vector_Property1Default } from './Vector_Property1Default/Vector_Property1Default.js';
+import { EndCallButton_Property1Default } from './EndCallButton/EndCallButton_Property1Default.js';
+import classes from './ScreenVideoChat.css';
+import { Vector_Property1Default2 } from './Vector_Property2/Vector_Property1Default2.js';
+import { Vector_Property1Default3 } from './Vector_Property3/Vector_Property1Default3.js';
+import { Vector_Property1Default } from './Vector_Property1/Vector_Property1Default.js';
 import { VideoCallBoxIcon } from './VideoCallBoxIcon.js';
 
 interface Props {
   className?: string;
 }
 /* @figmaId 35:209 */
-export const ScreenVideoChat_Property1Defau: FC<Props> = memo(function ScreenVideoChat_Property1Defau(props = {}) {
+export const ScreenVideoChat: FC<Props> = memo(function ScreenVideoChat_Property1Defau(props = {}) {
   return (
     <div className={`${resets.clapyResets} ${classes.root}`}>
       <div className={classes.background2}></div>
