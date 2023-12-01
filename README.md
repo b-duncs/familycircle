@@ -47,7 +47,7 @@ By clicking on a face / name of someone they know, a video call will begin, and 
 The above image shows a sample of the home screen. The user can choose a call recipient from here.
 
 <div align="center">
-    <img style='border: 8px solid #FFFFFF' src="https://github.com/b-duncs/holbertonschool-capstone/blob/readme/images/vidoe_interface.jpg" alt="Logo">
+    <img style='border: 8px solid #FFFFFF' src="https://github.com/b-duncs/holbertonschool-capstone/blob/readme/images/video_interface.jpg" alt="Logo">
 </div>
 
 The above image shows the video call interface while a call is in progress.
@@ -58,8 +58,10 @@ The above image shows the video call interface while a call is in progress.
 <div align=center>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindsCSS" alt="TailwindsCSS" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindsCSS" alt="TailwindsCSS" height="40" width="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/b-duncs/holbertonschool-capstone/blob/readme/images/amplify_logo.png" title="Amplify" alt="Amplify" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/b-duncs/holbertonschool-capstone/blob/readme/images/twilio_logo.png" title="Twilio" alt="Twilio" width="40" height="40"/>&nbsp;
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
