@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Family-Circle-capstone/family-circle-capstone">
-    <img style='border: 8px solid #FFFFFF' src="./family-circle/public/readme/logo.jpg" alt="Logo">
+    <img src="./family-circle/public/readme/logo.png" alt="FamilyCircle Logo">
   </a>
 </div>
 <!-- TABLE OF CONTENTS -->
