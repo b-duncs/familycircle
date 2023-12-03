@@ -1,4 +1,5 @@
-<a name="readme-top"></a>
+# <a name="readme-top" width="200"></a>
+
 <!-- PROJECT LOGO -->
 <!--suppress HtmlDeprecatedAttribute -->
 <br />
@@ -37,6 +38,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
 Family Circle is a simple and accessible web app designed to make out-going calls to preset contacts. The intended market for this application are individuals who may not be comfortable using other video call services and find themselves in an isolated environment.
 
 By clicking on a face / name of someone they know, a video call will begin, and the recipient will be notified to join. There is also voice command functionality to start a call for those with mobility restrictions.
@@ -54,6 +56,7 @@ The above image shows a sample of the home screen. The user can choose a call re
 The above image shows the video call interface while a call is in progress.
 
 ### Built With
+
 `We need to add our final tech stack here`
 
 <div align=center>
@@ -74,6 +77,7 @@ The above image shows the video call interface while a call is in progress.
 ### Prerequisites
 
 ### Installation
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
@@ -109,7 +113,6 @@ Baylee Duncan - [GitHub](https://github.com/b-duncs) - [LinkedIn](https://www.li
 Benjamin Sbanotto - [GitHub](https://github.com/bsbanotto) - [LinkedIn](https://www.linkedin.com/in/ben-sbanotto/)
 
 Matthew Allen - [GitHub](https://github.com/mdallen5393) - [LinkedIn](https://www.linkedin.com/in/itsmatthewallen/)
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
